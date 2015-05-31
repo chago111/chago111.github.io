@@ -127,3 +127,13 @@ margin-top: -43px;
 left: 410px;
 float: inherit;
 }
+
+.est{
+  position: fixed;
+  background-color:gray;
+  float: right;
+  
+  width: 92%;
+  left: 90%;
+  top: 20%;
+}

@@ -5,6 +5,8 @@ $(document).on('ready',function(){
   $(".menu").mouseout(function(){
     $(this).css( "background-color","#DAA520");
   });
+  var owl = $("#owl-demo");
+
 
 });
 
