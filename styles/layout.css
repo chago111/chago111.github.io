@@ -131,15 +131,15 @@ font-family: 'Raleway', sans-serif;
 }
 
 div.elevator-button {
-  float: right;
+  float: left;
   text-transform: uppercase;
-  letter-spacing: 4px;
-  margin: 0 10px;
+  letter-spacing: 1px;
+  margin: 0 2px;
   text-decoration: none;
   color: white;
   background-color:  #DAA520;
   padding: 5px;
-  border-radius:12px;
+  border-radius:5px;
   font-family: 'Raleway', sans-serif;
 
 }
